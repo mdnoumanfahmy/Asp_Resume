@@ -4,12 +4,71 @@
 @{
 }
 
-<div class="container">
-    <div class="row">
-        <div class="col-md-12">
-            <h1>About</h1>
-            <p>About Page</p>
+<style>
+    .hero-section {
+        background-color: #f8f9fa;
+        padding: 80px 0;
+    }
+
+    .skill-card {
+        transition: transform 0.3s;
+        border: none;
+        box-shadow: 0 4px 6px rgba(0,0,0,0.1);
+    }
+
+        .skill-card:hover {
+            transform: translateY(-5px);
+        }
+
+    .dot-net-purple {
+        color: #512bd4; /* Official .NET Purple */
+    }
+</style>
+
+<section class="hero-section text-center">
+    <div class="container">
+        <h1 class="display-4 fw-bold">Hi, I'm a <span class="dot-net-purple">.NET Developer</span></h1>
+        <p class="lead text-muted mt-3">Building robust, scalable, and high-performance applications with the Microsoft stack.</p>
+    </div>
+</section>
+
+<section class="py-5">
+    <div class="container">
+        <div class="row align-items-center">
+            <div class="col-lg-6">
+                <h2 class="mb-4">About Me</h2>
+                <p>I specialize in designing and developing full-stack solutions using <strong>C#</strong> and <strong>ASP.NET Core</strong>. My focus is on writing clean, maintainable code and implementing modern architectural patterns like Microservices and Clean Architecture.</p>
+                <p>With a strong foundation in SQL Server and front-end technologies, I enjoy bridging the gap between complex back-end logic and seamless user experiences.</p>
+            </div>
+            <div class="col-lg-6">
+                <div class="row g-3">
+                    <div class="col-6">
+                        <div class="card skill-card p-3 text-center">
+                            <div class="fw-bold">ASP.NET Core</div>
+                            <small class="text-muted">Web APIs & MVC</small>
+                        </div>
+                    </div>
+                    <div class="col-6">
+                        <div class="card skill-card p-3 text-center">
+                            <div class="fw-bold">C# / LINQ</div>
+                            <small class="text-muted">Backend Logic</small>
+                        </div>
+                    </div>
+                    <div class="col-6">
+                        <div class="card skill-card p-3 text-center">
+                            <div class="fw-bold">Entity Framework</div>
+                            <small class="text-muted">ORM & Databases</small>
+                        </div>
+                    </div>
+                    <div class="col-6">
+                        <div class="card skill-card p-3 text-center">
+                            <div class="fw-bold">Azure</div>
+                            <small class="text-muted">Cloud & DevOps</small>
+                        </div>
+                    </div>
+                </div>
+            </div>
         </div>
     </div>
-</div>
+</section>
 

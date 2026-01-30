@@ -1,0 +1,49 @@
+## Visual Studio & Build Artifacts ##
+.vs/
+[Bb]in/
+[Oo]bj/
+[Tt]est[Rr]esult*/
+[Bb]uild[Ll]og.*
+*.suo
+*.user
+*.userosscache
+*.sln.docstates
+
+## ASP.NET Core Specifics ##
+# Ignore development settings that may contain secrets or local paths
+appsettings.Development.json
+appsettings.Local.json
+appsettings.*.local.json
+
+# Visual Studio Code
+.vscode/
+
+## NuGet ##
+# It is generally safer to ignore the packages folder and let NuGet restore them
+packages/
+*.nupkg
+# The following file is required if you are not using package restore
+!packages/repositories.config
+
+## Web / Front-end ##
+node_modules/
+wwwroot/lib/
+npm-debug.log
+yarn-error.log
+package-lock.json # Optional: Remove this line if you want to lock dependencies
+yarn.lock         # Optional: Remove this line if you want to lock dependencies
+
+## OS Generated Files ##
+.DS_Store
+Thumbs.db
+
+## User-specific files ##
+*.rsuser
+*.suo
+*.user
+*.userosscache
+*.sln.docstates
+
+## Rider / JetBrains ##
+.idea/
+*.sln.iml

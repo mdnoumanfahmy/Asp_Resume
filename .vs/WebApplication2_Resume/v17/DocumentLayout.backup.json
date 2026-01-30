@@ -1,26 +1,26 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "F:\\CODE PLAYGROUND\\ASP\\WebApplication2_Resume\\",
+  "WorkspaceRootPath": "F:\\CODE_PLAYGROUND\\DOTNET\\Asp_Resume\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{90A52C3D-C0F7-416A-B63C-0BFA67180A24}|WebApplication2_Resume\\WebApplication2_Resume.csproj|f:\\code playground\\asp\\webapplication2_resume\\webapplication2_resume\\views\\user\\contact.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{90A52C3D-C0F7-416A-B63C-0BFA67180A24}|WebApplication2_Resume\\WebApplication2_Resume.csproj|solutionrelative:webapplication2_resume\\views\\user\\contact.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{90A52C3D-C0F7-416A-B63C-0BFA67180A24}|WebApplication2_Resume\\WebApplication2_Resume.csproj|f:\\code playground\\asp\\webapplication2_resume\\webapplication2_resume\\views\\user\\about.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "AbsoluteMoniker": "D:0:0:{90A52C3D-C0F7-416A-B63C-0BFA67180A24}|WebApplication2_Resume\\WebApplication2_Resume.csproj|f:\\code_playground\\dotnet\\asp_resume\\webapplication2_resume\\views\\user\\about.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{90A52C3D-C0F7-416A-B63C-0BFA67180A24}|WebApplication2_Resume\\WebApplication2_Resume.csproj|solutionrelative:webapplication2_resume\\views\\user\\about.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{90A52C3D-C0F7-416A-B63C-0BFA67180A24}|WebApplication2_Resume\\WebApplication2_Resume.csproj|f:\\code playground\\asp\\webapplication2_resume\\webapplication2_resume\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "AbsoluteMoniker": "D:0:0:{90A52C3D-C0F7-416A-B63C-0BFA67180A24}|WebApplication2_Resume\\WebApplication2_Resume.csproj|f:\\code_playground\\dotnet\\asp_resume\\webapplication2_resume\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{90A52C3D-C0F7-416A-B63C-0BFA67180A24}|WebApplication2_Resume\\WebApplication2_Resume.csproj|solutionrelative:webapplication2_resume\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{90A52C3D-C0F7-416A-B63C-0BFA67180A24}|WebApplication2_Resume\\WebApplication2_Resume.csproj|f:\\code playground\\asp\\webapplication2_resume\\webapplication2_resume\\controllers\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{90A52C3D-C0F7-416A-B63C-0BFA67180A24}|WebApplication2_Resume\\WebApplication2_Resume.csproj|solutionrelative:webapplication2_resume\\controllers\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{90A52C3D-C0F7-416A-B63C-0BFA67180A24}|WebApplication2_Resume\\WebApplication2_Resume.csproj|f:\\code_playground\\dotnet\\asp_resume\\webapplication2_resume\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{90A52C3D-C0F7-416A-B63C-0BFA67180A24}|WebApplication2_Resume\\WebApplication2_Resume.csproj|solutionrelative:webapplication2_resume\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{90A52C3D-C0F7-416A-B63C-0BFA67180A24}|WebApplication2_Resume\\WebApplication2_Resume.csproj|f:\\code playground\\asp\\webapplication2_resume\\webapplication2_resume\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{90A52C3D-C0F7-416A-B63C-0BFA67180A24}|WebApplication2_Resume\\WebApplication2_Resume.csproj|solutionrelative:webapplication2_resume\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+      "AbsoluteMoniker": "D:0:0:{90A52C3D-C0F7-416A-B63C-0BFA67180A24}|WebApplication2_Resume\\WebApplication2_Resume.csproj|f:\\code_playground\\dotnet\\asp_resume\\webapplication2_resume\\views\\user\\contact.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{90A52C3D-C0F7-416A-B63C-0BFA67180A24}|WebApplication2_Resume\\WebApplication2_Resume.csproj|solutionrelative:webapplication2_resume\\views\\user\\contact.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{90A52C3D-C0F7-416A-B63C-0BFA67180A24}|WebApplication2_Resume\\WebApplication2_Resume.csproj|f:\\code_playground\\dotnet\\asp_resume\\webapplication2_resume\\controllers\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{90A52C3D-C0F7-416A-B63C-0BFA67180A24}|WebApplication2_Resume\\WebApplication2_Resume.csproj|solutionrelative:webapplication2_resume\\controllers\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -30,72 +30,70 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 2,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 3,
               "Title": "Contact.cshtml",
-              "DocumentMoniker": "F:\\CODE PLAYGROUND\\ASP\\WebApplication2_Resume\\WebApplication2_Resume\\Views\\User\\Contact.cshtml",
+              "DocumentMoniker": "F:\\CODE_PLAYGROUND\\DOTNET\\Asp_Resume\\WebApplication2_Resume\\Views\\User\\Contact.cshtml",
               "RelativeDocumentMoniker": "WebApplication2_Resume\\Views\\User\\Contact.cshtml",
-              "ToolTip": "F:\\CODE PLAYGROUND\\ASP\\WebApplication2_Resume\\WebApplication2_Resume\\Views\\User\\Contact.cshtml",
+              "ToolTip": "F:\\CODE_PLAYGROUND\\DOTNET\\Asp_Resume\\WebApplication2_Resume\\Views\\User\\Contact.cshtml",
               "RelativeToolTip": "WebApplication2_Resume\\Views\\User\\Contact.cshtml",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAXAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2026-01-27T16:46:31.118Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-01-27T16:46:31.118Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 1,
               "Title": "Index.cshtml",
-              "DocumentMoniker": "F:\\CODE PLAYGROUND\\ASP\\WebApplication2_Resume\\WebApplication2_Resume\\Views\\Home\\Index.cshtml",
+              "DocumentMoniker": "F:\\CODE_PLAYGROUND\\DOTNET\\Asp_Resume\\WebApplication2_Resume\\Views\\Home\\Index.cshtml",
               "RelativeDocumentMoniker": "WebApplication2_Resume\\Views\\Home\\Index.cshtml",
-              "ToolTip": "F:\\CODE PLAYGROUND\\ASP\\WebApplication2_Resume\\WebApplication2_Resume\\Views\\Home\\Index.cshtml",
+              "ToolTip": "F:\\CODE_PLAYGROUND\\DOTNET\\Asp_Resume\\WebApplication2_Resume\\Views\\Home\\Index.cshtml",
               "RelativeToolTip": "WebApplication2_Resume\\Views\\Home\\Index.cshtml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAACoAAAAAAAAAAAAAADwAAAAnAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
               "WhenOpened": "2026-01-27T16:16:58.224Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 0,
               "Title": "About.cshtml",
-              "DocumentMoniker": "F:\\CODE PLAYGROUND\\ASP\\WebApplication2_Resume\\WebApplication2_Resume\\Views\\User\\About.cshtml",
+              "DocumentMoniker": "F:\\CODE_PLAYGROUND\\DOTNET\\Asp_Resume\\WebApplication2_Resume\\Views\\User\\About.cshtml",
               "RelativeDocumentMoniker": "WebApplication2_Resume\\Views\\User\\About.cshtml",
-              "ToolTip": "F:\\CODE PLAYGROUND\\ASP\\WebApplication2_Resume\\WebApplication2_Resume\\Views\\User\\About.cshtml",
+              "ToolTip": "F:\\CODE_PLAYGROUND\\DOTNET\\Asp_Resume\\WebApplication2_Resume\\Views\\User\\About.cshtml",
               "RelativeToolTip": "WebApplication2_Resume\\Views\\User\\About.cshtml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAABsAAAAAAAAAAAAuwDMAAAAKAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
               "WhenOpened": "2026-01-27T11:40:10.399Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 2,
               "Title": "_Layout.cshtml",
-              "DocumentMoniker": "F:\\CODE PLAYGROUND\\ASP\\WebApplication2_Resume\\WebApplication2_Resume\\Views\\Shared\\_Layout.cshtml",
+              "DocumentMoniker": "F:\\CODE_PLAYGROUND\\DOTNET\\Asp_Resume\\WebApplication2_Resume\\Views\\Shared\\_Layout.cshtml",
               "RelativeDocumentMoniker": "WebApplication2_Resume\\Views\\Shared\\_Layout.cshtml",
-              "ToolTip": "F:\\CODE PLAYGROUND\\ASP\\WebApplication2_Resume\\WebApplication2_Resume\\Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "F:\\CODE_PLAYGROUND\\DOTNET\\Asp_Resume\\WebApplication2_Resume\\Views\\Shared\\_Layout.cshtml",
               "RelativeToolTip": "WebApplication2_Resume\\Views\\Shared\\_Layout.cshtml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAMAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAADIAAAApAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
               "WhenOpened": "2026-01-27T11:31:53.481Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 4,
               "Title": "User.cs",
-              "DocumentMoniker": "F:\\CODE PLAYGROUND\\ASP\\WebApplication2_Resume\\WebApplication2_Resume\\Controllers\\User.cs",
+              "DocumentMoniker": "F:\\CODE_PLAYGROUND\\DOTNET\\Asp_Resume\\WebApplication2_Resume\\Controllers\\User.cs",
               "RelativeDocumentMoniker": "WebApplication2_Resume\\Controllers\\User.cs",
-              "ToolTip": "F:\\CODE PLAYGROUND\\ASP\\WebApplication2_Resume\\WebApplication2_Resume\\Controllers\\User.cs",
+              "ToolTip": "F:\\CODE_PLAYGROUND\\DOTNET\\Asp_Resume\\WebApplication2_Resume\\Controllers\\User.cs",
               "RelativeToolTip": "WebApplication2_Resume\\Controllers\\User.cs",
               "ViewState": "AgIAAA4AAAAAAAAAAAAowBoAAAAJAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-01-27T11:31:27.537Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-01-27T11:31:27.537Z"
             }
           ]
         }
