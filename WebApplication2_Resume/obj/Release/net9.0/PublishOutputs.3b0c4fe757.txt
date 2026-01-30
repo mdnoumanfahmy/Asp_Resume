@@ -1,0 +1,7 @@
+F:\CODE_PLAYGROUND\DOTNET\Asp_Resume\WebApplication2_Resume\obj\Release\net9.0\PubTmp\Out\WebApplication2_Resume.exe
+F:\CODE_PLAYGROUND\DOTNET\Asp_Resume\WebApplication2_Resume\obj\Release\net9.0\PubTmp\Out\appsettings.Development.json
+F:\CODE_PLAYGROUND\DOTNET\Asp_Resume\WebApplication2_Resume\obj\Release\net9.0\PubTmp\Out\appsettings.json
+F:\CODE_PLAYGROUND\DOTNET\Asp_Resume\WebApplication2_Resume\obj\Release\net9.0\PubTmp\Out\WebApplication2_Resume.dll
+F:\CODE_PLAYGROUND\DOTNET\Asp_Resume\WebApplication2_Resume\obj\Release\net9.0\PubTmp\Out\WebApplication2_Resume.deps.json
+F:\CODE_PLAYGROUND\DOTNET\Asp_Resume\WebApplication2_Resume\obj\Release\net9.0\PubTmp\Out\WebApplication2_Resume.runtimeconfig.json
+F:\CODE_PLAYGROUND\DOTNET\Asp_Resume\WebApplication2_Resume\obj\Release\net9.0\PubTmp\Out\WebApplication2_Resume.pdb
