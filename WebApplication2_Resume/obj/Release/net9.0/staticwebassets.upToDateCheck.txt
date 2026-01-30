@@ -61,6 +61,7 @@ wwwroot\lib\jquery\dist\jquery.slim.js
 wwwroot\lib\jquery\dist\jquery.slim.min.js
 wwwroot\lib\jquery\dist\jquery.slim.min.map
 wwwroot\lib\jquery\LICENSE.txt
+wwwroot\img\mdnoumanfahmy.jpg
 F:\CODE_PLAYGROUND\DOTNET\Asp_Resume\WebApplication2_Resume\wwwroot\css\site.css
 F:\CODE_PLAYGROUND\DOTNET\Asp_Resume\WebApplication2_Resume\wwwroot\favicon.ico
 F:\CODE_PLAYGROUND\DOTNET\Asp_Resume\WebApplication2_Resume\wwwroot\js\site.js
